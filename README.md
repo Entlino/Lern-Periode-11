@@ -8,3 +8,8 @@ Geplant ist das ich in dieser Lern-Periode entweder Java lerne oder mein Projekt
 
 ### 15.08.2025
 Heute habe ich zuerst damit begonnen an meiner Portfoliowebsite zu arbeiten, dabei habe ich ein Tracking Tool installiert welches mir ermöglicht zu sehen was am meisten angeschaut wird. Zudem habe ich mich dannach noch damit auseinander gesetzt wie ich auf meinem Home Server zuhause meinen eigenen Mailserver aufsetzten kann. Gegenende habe ich mit einem Java Beginner Tutorial begonnen.
+
+
+### 29.08.2025
+
+Heute hatte ich mein einzelgespräch und habe weiter an der "modernisierung" / erneuerung meines Portfolioverwalters gearbeitet.
